@@ -1,2 +1,6 @@
-# mysql_build
-build mysql with docker
+# Build
+
+```
+make image
+make build-dev
+```
